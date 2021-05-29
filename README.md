@@ -20,7 +20,8 @@ feel free to follow me :)
 
 <p align="center">
 
-    # Interests: 
+ # Interests: 
+
 
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />
 <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />
@@ -29,10 +30,11 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    # Planed to learn:
+# Planed to learn:
+
 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="45" />
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
 <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="45" />
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />
@@ -46,12 +48,12 @@ feel free to follow me :)
 <p align="center">
 
 # Using in projects:
-<br />
+
+
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="45" />
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="45" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="45" />
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html 5" height="45" />
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="45" />
@@ -60,7 +62,6 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="45" />
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="45" />
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" height="45" />
-<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" height="45" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="45" />
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="45" />
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" height="45" />
@@ -74,6 +75,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-icon.svg" alt="Dropbox" height="45" />
 <img src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg" alt="chocolatey" height="45" />
 <img src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg" alt="Gravatar" height="45" />
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="45" />
 </ p>
 
 
