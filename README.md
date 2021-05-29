@@ -22,17 +22,17 @@ feel free to follow me :)
 
  # Interests: 
 
-
+<p>
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />
 <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+</p>
 # Planed to learn:
 
-
+<p>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
@@ -41,6 +41,7 @@ feel free to follow me :)
 <!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>  -->
+</p>
 </p>
 
 <p></p>
