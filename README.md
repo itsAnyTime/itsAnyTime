@@ -17,13 +17,12 @@ feel free to follow me :)
 
 
 <p align="center"> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnyTime&count_private=true&show_icons=true&theme=midnight-purple)]
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnyTime&count_private=true&show_icons=true&theme=midnight-purple)]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=midnight-purple&layout=compact" />(https://github.com/anuraghazra/github-readme-stats)
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=midnight-purple&layout=compact" />(https://github.com/anuraghazra/github-readme-stats)
-
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
+Visitor count<br>
+<img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
 </p>
 
 
