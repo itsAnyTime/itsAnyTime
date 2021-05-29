@@ -11,7 +11,6 @@
 <!-- https://www.vectorlogo.zone/logos/grasshopper/grasshopper-icon.svg -->
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <!-- missing: Adobe, unreal-->
 
