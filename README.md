@@ -45,7 +45,7 @@ feel free to follow me :)
     <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>  -->
 </p>
 
-
+<p align="center">
 <p>Using in projects:<br />
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
@@ -88,7 +88,7 @@ feel free to follow me :)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
+<p align="center">
 Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />
@@ -99,7 +99,7 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />
-
+</p>
 
 
 
