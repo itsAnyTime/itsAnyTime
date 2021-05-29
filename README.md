@@ -1,6 +1,6 @@
-#  Hi there 👋😄
+#  Hi there! 👋😄
 
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/output/github-contribution-grid-snake.svg) -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/output/github-contribution-grid-snake.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/output/github-user-contribution.svg)
 
