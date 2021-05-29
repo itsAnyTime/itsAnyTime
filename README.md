@@ -45,8 +45,8 @@ feel free to follow me :)
 </p>
 </p>
 
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="center">
 
@@ -83,8 +83,8 @@ feel free to follow me :)
 </p>
 </p>
 
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
         
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
