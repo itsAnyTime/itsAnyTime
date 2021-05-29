@@ -96,7 +96,7 @@ feel free to follow me :)
 <p align="center">
 # Used in past:<br />
 
-<p>
+<>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />&nbsp;&nbsp;
@@ -107,18 +107,18 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="30"/>
-</p></ p>
+</ p></ p>
 
 
 
 <!-- source: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center"> <img
+< align="center"> <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
-</p>
+</ p>
 
 
 <!-- social media -->
-<p align="center">
+< align="center">
     <a href="https://www.instagram.com/itsanytime/" target="_blank"><img style="padding: 10px"
             src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" alt="Instagram"
             height="30" /></a>&nbsp;&nbsp;
@@ -137,13 +137,13 @@ feel free to follow me :)
     <a href="https://www.youtube.com/channel/UCKLfVwCfdKRnt5ppD2kgQ2g" target="_blank"><img style="padding: 10px"
             src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube"
             height="30" /></a>&nbsp;&nbsp;
-</p>
-<p align="center">
+</ p>
+< align="center">
     <a href="https://www.itsanytime.de/" target="_blank"><img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg"
             alt="freelancer" height="30" /></a>
-</p>
+</ p>
 
-<p align="center">
+< align="center">
     <br>
     <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
-</p>
+</ p>
