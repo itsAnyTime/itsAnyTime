@@ -86,15 +86,15 @@ feel free to follow me :)
 
 <p align="center">
 Used in past:<br />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="30" />
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="30" />
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="30" />
-<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />
-<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />
-<img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="30"/>
 </p>
 
