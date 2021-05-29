@@ -49,7 +49,7 @@ feel free to follow me :)
 
 # Using in projects:
 
-
+<p>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />
@@ -59,7 +59,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="45" />
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="45" />
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" height="45" />
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="45" />
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="45" />
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="45" />
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" height="45" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="45" />
@@ -76,6 +76,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg" alt="chocolatey" height="45" />
 <img src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg" alt="Gravatar" height="45" />
 <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="45" />
+</ p>
 </ p>
 
 
