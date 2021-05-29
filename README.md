@@ -17,7 +17,9 @@ feel free to follow me :)
 
 
 <p align="center"> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnyTime&count_private=true&show_icons=true&theme=midnight-purple)]</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnyTime&count_private=true&show_icons=true&theme=midnight-purple)]
+</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=midnight-purple&layout=compact" /></p>
 
