@@ -5,9 +5,9 @@
 <a href="https://codepen.io/itsAnyTime/pens/showcase"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="45" alt="codepen" /></a>
 <a href="https://replit.com/@itsAnyTime/LovableHarshWaterfall#myApp.js"><img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" height="45" alt="repl.it" /></a>
 <a href="https://www.codecademy.com/profiles/ItsAnyTime"><img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" height="45" alt="codecademy" /></a>
-<a href="https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3"><img src=""></a>
+<a href="https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3"><img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg"></a>
 <a href="https://edabit.com/user/jySqRL3ixQ8CfSS66"><img height="45" src="https://edabit-images.s3.amazonaws.com/shades.png"></a>
-<a href="https://www.sololearn.com/Profile/13825455"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/SoloLearn_logo.svg"></a>
+<a href="https://www.sololearn.com/Profile/13825455"><img src="https://github.com/itsAnyTime/itsAnyTime/blob/master/media/sololearn.svg"></a>
 
 <!-- https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg -->
 <!-- https://www.vectorlogo.zone/logos/grasshopper/grasshopper-icon.svg -->
@@ -59,7 +59,7 @@
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="45" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="45" />&nbsp;&nbsp;
+<img src="https://github.com/itsAnyTime/itsAnyTime/blob/master/media/javascript.svg" alt="javascript" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="45" />&nbsp;&nbsp;
