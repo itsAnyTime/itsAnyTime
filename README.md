@@ -30,7 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />&nbsp;&nbsp;
@@ -142,11 +142,10 @@
 </p>
 
 <p align="center">
-    <a href="https://www.itsanytime.de/" target="_blank"><img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg"
-            alt="freelancer" height="30" /></a>
+    <br>
+    <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
 </p>
 
 <p align="center">
-    <br>
-    <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
+    <a href="https://www.itsanytime.de/" target="_blank"><img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" height="30" /></a>
 </p>
