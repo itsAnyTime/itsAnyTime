@@ -1,9 +1,9 @@
 #  Hi there 👋
 
-Some of my other profiles:
-<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="50" alt="codepen" />
-<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" height="50" alt="repl.it" />
-<img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-ar21.svg" height="50" alt="codecademy" />
+## Some of my other profiles:
+<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="45" alt="codepen" />
+<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" height="45" alt="repl.it" />
+<img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-ar21.svg" height="45" alt="codecademy" />
 - https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3
 - https://www.sololearn.com/Profile/13825455
 - https://edabit.com/user/jySqRL3ixQ8CfSS66
@@ -16,7 +16,7 @@ Some of my other profiles:
 <!-- missing: Adobe, unreal-->
 
 <!-- source: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center"> <img
+<p> <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
 </p>
 
