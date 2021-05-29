@@ -19,14 +19,18 @@ feel free to follow me :)
 
 
 <p align="center">
+
 # Interests: 
+
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />
 <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 # Planed to learn:
+
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="45" />
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
@@ -40,6 +44,7 @@ feel free to follow me :)
 <p></p>
 
 <p align="center">
+
 # Using in projects:
 <br />
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
