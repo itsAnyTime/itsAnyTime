@@ -6,7 +6,7 @@
 <a href="https://www.codecademy.com/profiles/ItsAnyTime"><img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" height="45" alt="codecademy" /></a>&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3"><img height="45" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg"></a>&nbsp;&nbsp;
 <a href="https://edabit.com/user/jySqRL3ixQ8CfSS66"><img height="45" src="https://edabit-images.s3.amazonaws.com/shades.png"></a>&nbsp;&nbsp;
-<a href="https://www.sololearn.com/Profile/13825455"><img height="45" src="https://github.com/itsAnyTime/itsAnyTime/blob/master/media/sololearn.svg"></a>
+<a href="https://www.sololearn.com/Profile/13825455"><img height="45" src="https://github.com/itsAnyTime/itsAnyTime/blob/master/media/sololearn.svg"></a>&nbsp;&nbsp;
 <a href="https://codepen.io/itsAnyTime/pens/showcase"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="45" alt="codepen" /></a>&nbsp;&nbsp;
 <!-- https://www.vectorlogo.zone/logos/grasshopper/grasshopper-icon.svg -->
 
