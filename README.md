@@ -46,7 +46,7 @@ feel free to follow me :)
 </p>
 
 <p align="center">
-<p>Using in projects:<br />
+Using in projects:<br />
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />
