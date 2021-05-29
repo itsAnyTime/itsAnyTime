@@ -74,7 +74,6 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/papertrailapp/papertrailapp-icon.svg" alt="Papertrail" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" height="45" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-icon.svg" alt="Dropbox" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg" alt="chocolatey" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg" alt="Gravatar" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="45" />&nbsp;&nbsp;
@@ -100,16 +99,16 @@ feel free to follow me :)
 # Used in past:<br />
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="45"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="45" />&nbsp;&nbsp;
 
 </p></p>
 
