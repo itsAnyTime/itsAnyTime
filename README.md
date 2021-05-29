@@ -28,7 +28,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />&nbsp;&nbsp;
