@@ -20,14 +20,14 @@ feel free to follow me :)
 
 <p align="center">
 
-Interests: <br />
+Interests: 
     <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />
     <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
     <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />
     <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />
     <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />
-
-Planed to learn:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+Planed to learn:
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="45" />
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
@@ -51,7 +51,7 @@ Planed to learn:<br />
     <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" height="45" />
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="45" />
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="45" />
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon" alt="jquery" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" height="45" />
     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" height="45" />
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="45" />
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="45" />
@@ -91,7 +91,7 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />
-<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="30"/>
 </p>
 
 
