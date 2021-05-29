@@ -105,21 +105,23 @@ Used in past:<br />
 <!-- source: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" /></p>
 
-<p align="center"> 
-Visitor count<br>
-<img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
-</p>
+
 
 
 <!-- social media -->
 <p>
-<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="55" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="55" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" width="55" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" width="55" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="55" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" width="55" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" height="30"/>
 
 <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" height="30"/> 
+</p>
+
+<p align="center"> 
+Visitor count<br>
+<img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
 </p>
