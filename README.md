@@ -13,13 +13,16 @@ feel free to follow me :)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime)](https://github.com/itsAnyTime/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&layout=compact&theme=material-palenight" />
+</a>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
 </p>
+
+
 
 
 <!--
