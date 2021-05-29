@@ -51,7 +51,7 @@ feel free to follow me :)
 
 # Using in projects:
 
-<p>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="45" />&nbsp;&nbsp;
@@ -98,7 +98,7 @@ feel free to follow me :)
 
 # Used in past:<br />
 
-<p>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />&nbsp;&nbsp;
