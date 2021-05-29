@@ -32,8 +32,6 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/tesla/tesla-icon.svg" alt="Tesla" height="50"/>
-
 </p>
 
 
