@@ -20,16 +20,16 @@ feel free to follow me :)
 
 <p align="center">
   
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
 
-    <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="55" height="55"/> -->
 
 </p>
 
 <p>Interests: <br />
-<img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" width="110" height="75"/> 
+<img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera"  height="55"/>
+<img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy"  height="55"/>
+<img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin"  height="75"/> 
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/tesla/tesla-icon.svg" alt="Tesla" width="55" height="55"/>
