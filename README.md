@@ -12,11 +12,13 @@ Some of my other profiles:
 <!-- https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg -->
 <!-- https://www.vectorlogo.zone/logos/grasshopper/grasshopper-icon.svg -->
 
-feel free to follow me :)
 
 <!-- missing: Adobe, unreal-->
 
-
+<!-- source: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center"> <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
+</p>
 
 <p align="center">
 
@@ -28,7 +30,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />&nbsp;&nbsp;
@@ -108,11 +110,8 @@ feel free to follow me :)
 </p></p>
 
 
+feel free to follow me :)
 
-<!-- source: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center"> <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
-</p>
 
 
 <!-- social media -->
