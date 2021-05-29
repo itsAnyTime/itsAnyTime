@@ -16,8 +16,6 @@ feel free to follow me :)
 
 <!-- source: https://github.com/anuraghazra/github-readme-stats -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsAnyTime&count_private=true&show_icons=true&theme=midnight-purple"  /></p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=midnight-purple&layout=compact" /></p>
 
 
