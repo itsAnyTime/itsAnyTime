@@ -1,7 +1,6 @@
 #  Hi there! 👋😄
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/snake/github-contribution-grid-snake.svg)
-
+![github snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/snake/github-contribution-grid-snake.svg)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/output/github-user-contribution.svg)
 
 _generated with [itsAnyTime/snk](https://github.com/platane/snk)_
