@@ -142,10 +142,10 @@
 </p>
 
 <p align="center">
-    <br>
-    <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
+    <a href="https://www.itsanytime.de/" target="_blank"><img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" height="30" /></a>
 </p>
 
 <p align="center">
-    <a href="https://www.itsanytime.de/" target="_blank"><img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" height="30" /></a>
+    <br>
+    <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
 </p>
