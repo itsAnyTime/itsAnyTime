@@ -1,4 +1,4 @@
-### Hi there 👋
+#  Hi there 👋
 
 Some of my other profiles:
 <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="50" alt="codepen" />
@@ -29,20 +29,20 @@ feel free to follow me :)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Planed to learn:
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="45" />
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
-    <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="45" />
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />
-    <!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
-    <!-- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/> -->
-    <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>  -->
+# Planed to learn:
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="45" />
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
+<img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="45" />
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />
+<!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>  -->
 </p>
 
 <p></p>
 
-<p align="center"><bold>Using in projects:</bold><br />
+<p align="center"># Using in projects:<br />
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />
@@ -85,7 +85,7 @@ feel free to follow me :)
 - ⚡ Fun fact: ... -->
 
 <p align="center">
-Used in past:<br />
+# Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />&nbsp;&nbsp;
