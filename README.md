@@ -20,33 +20,25 @@ feel free to follow me :)
 
 <p align="center">
 
-<!-- 
-<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="55" height="55"/> -->
+Interests: <br />
+    <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />
 
-</p>
-
-<p>Interests: <br />
-    <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="50" />
-    <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="50" />
-    <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="50" />
-    <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="50" />
-    <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="50" />
-</p>
-
-
-<p>Planed to learn:<br />
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="20" />
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="20" />
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="20" />
-    <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="20" />
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="20" />
+Planed to learn:<br />
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />
     <!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
     <!-- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/> -->
     <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>  -->
 </p>
 
-<p align="center">
-Using in projects:<br />
+<p align="center"><legend>Using in projects:</legend><br />
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />
@@ -99,6 +91,7 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="55" height="55"/>
 </p>
 
 
