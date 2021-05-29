@@ -13,7 +13,7 @@ feel free to follow me :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAnyTime&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&theme=midnight-purple&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=&theme=midnight-purple&layout=compact" />
 
 
 
