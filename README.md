@@ -23,22 +23,22 @@ feel free to follow me :)
  # Interests: 
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />
-<img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />
-<img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />
-<img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />
-<img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
+<img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # Planed to learn:
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />
-<img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="45" />
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="Minecraft" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />&nbsp;&nbsp;
 <!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>  -->
@@ -52,32 +52,33 @@ feel free to follow me :)
 # Using in projects:
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="45" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="45" />
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html 5" height="45" />
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="45" />
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="45" />
-<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" height="45" />
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="45" />
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="45" />
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" height="45" />
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="45" />
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="45" />
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" height="45" />
-<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" height="45" />
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html 5" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code"
-    height="45" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="45" />
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" height="45" />
-<img src="https://www.vectorlogo.zone/logos/papertrailapp/papertrailapp-icon.svg" alt="Papertrail" height="45" />
-<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" height="45" />
-<img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-icon.svg" alt="Dropbox" height="45" />
-<img src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg" alt="chocolatey" height="45" />
-<img src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg" alt="Gravatar" height="45" />
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="45" />
+    height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/papertrailapp/papertrailapp-icon.svg" alt="Papertrail" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-icon.svg" alt="Dropbox" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg" alt="chocolatey" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg" alt="Gravatar" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" height="45" />&nbsp;&nbsp;
+
 </p>
 </p>
 
@@ -105,9 +106,10 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="30" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />&nbsp;&nbsp;
+
 </p></p>
 
 
