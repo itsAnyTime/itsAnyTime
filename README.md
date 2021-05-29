@@ -122,7 +122,7 @@ Used in past:<br />
             height="30" /></a>&nbsp;&nbsp;
     <a href="https://www.twitch.tv/itsanytime" target="_blank"><img style="padding: 10px"
             src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch"
-            height="30" /></a>&nbsp;&nbsp;1
+            height="30" /></a>&nbsp;&nbsp;
     <a href="https://discord.gg/DrUcjG6gkN" target="_blank"><img style="padding: 10px"
             src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord"
             height="30" /></a>&nbsp;&nbsp;
@@ -139,6 +139,6 @@ Used in past:<br />
 </p>
 
 <p align="center">
-    Visitor count<br>
+    <br>
     <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
 </p>
