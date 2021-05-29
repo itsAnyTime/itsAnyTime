@@ -4,7 +4,7 @@
 
 
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Platane/snk](https://github.com/itsAnyTime/snk)_
 
 ## Some of my other profiles:
 
