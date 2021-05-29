@@ -78,13 +78,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg" alt="Gravatar" width="55" height="55"/>
 </ p>
 
-<!-- source: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" /></p>
 
-<p align="center"> 
-Visitor count<br>
-<img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
-</p>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -118,3 +112,12 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="55" height="55"/>
 
 <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" width="110" height="75"/> 
+
+
+<!-- source: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" /></p>
+
+<p align="center"> 
+Visitor count<br>
+<img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
+</p>
