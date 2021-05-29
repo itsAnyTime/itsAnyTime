@@ -20,7 +20,7 @@ feel free to follow me :)
 
 <p align="center">
 
- # Interests: 
+ # Interests: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planed to learn:
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />&nbsp;&nbsp;
@@ -29,10 +29,6 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-# Planed to learn:
-
 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" height="45" />&nbsp;&nbsp;
@@ -102,7 +98,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="45"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="45" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="43" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="45" />&nbsp;&nbsp;
