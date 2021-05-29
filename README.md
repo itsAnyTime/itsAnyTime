@@ -12,30 +12,8 @@ feel free to follow me :)
 
 
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.itsAnyTime.vercel.app` to `github-readme-stats.XXX.vercel.app` 
---->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/itsAnyTime/github-readme-stats)*
-
-
-<a href="https://github.com/itsAnyTime/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.itsAnyTime.vercel.app/api?username=itsAnyTime&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Any's github stats" />
-</a>
-<a href="https://github.com/itsAnyTime/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.itsAnyTime.vercel.app/api/top-langs/?username=itsAnyTime&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/itsAnyTime/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.itsAnyTime.vercel.app/api/pin/?username=itsAnyTime&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/itsAnyTime/itsAnyTime.github.io">
-
-  <img align="center" src="https://github-readme-stats.itsAnyTime.vercel.app/api/pin/?username=itsAnyTime&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime)](https://github.com/itsAnyTime/github-readme-stats)
 
 
 <p align="center"> 
