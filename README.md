@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 Some of my other profiles:
- <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen"/> 
- https://codepen.io/itsAnyTime/ <br />
-<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="repl.it"/> 
- https://repl.it/@itsAnyTime <br />
-<img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-ar21.svg" alt="codecademy"/> 
- https://www.codecademy.com/profiles/ItsAnyTime <br />
+ <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen"/> <br />
+<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="repl.it"/> <br />
+<img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-ar21.svg" alt="codecademy"/>  <br />
 - https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3
 - https://www.sololearn.com/Profile/13825455
 - https://edabit.com/user/jySqRL3ixQ8CfSS66
