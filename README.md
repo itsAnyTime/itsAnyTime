@@ -90,9 +90,9 @@ feel free to follow me :)
 -->
 
 Used in past:<br />
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="55"/> 
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="110" height="75"/> 
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="110" height="55"/> 
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" width="55" height="55"/>
@@ -109,7 +109,7 @@ Used in past:<br />
 
 
 <!-- social media -->
-<p align="center">>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" height="30"/>
