@@ -109,7 +109,7 @@ Used in past:<br />
 
 
 <!-- social media -->
-<p>
+<p align="center">>
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" height="30"/>
@@ -117,7 +117,7 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" height="30"/>
-
+<br />
 <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" height="30"/> 
 </p>
 
