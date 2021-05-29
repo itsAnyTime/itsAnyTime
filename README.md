@@ -1,13 +1,13 @@
 #  Hi there 👋
 
 ## Some of my other profiles:
-<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="45" alt="codepen" />
-<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" height="45" alt="repl.it" />
-<img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-ar21.svg" height="45" alt="codecademy" />
-- https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3
-- https://www.sololearn.com/Profile/13825455
-- https://edabit.com/user/jySqRL3ixQ8CfSS66
 
+<a href="https://codepen.io/itsAnyTime/pens/showcase"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" height="45" alt="codepen" /></a>
+<a href="https://replit.com/@itsAnyTime/LovableHarshWaterfall#myApp.js"><img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" height="45" alt="repl.it" /></a>
+<a href="https://www.codecademy.com/profiles/ItsAnyTime"><img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" height="45" alt="codecademy" /></a>
+<a href="https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.rawgit.com%2FDeftwun%2Fe3756a8b518cbb354425%2Fraw%2F6584db8babd6cbc4ecb35ed36f0d184a506b979e%2Ffree-code-camp-logo.svg&imgrefurl=https%3A%2F%2Fgist.github.com%2FDeftwun%2Fe3756a8b518cbb354425&tbnid=GKnY45EOOAVoQM&vet=12ahUKEwielZPfvO_wAhUTD-wKHaIrAeMQMygAegUIARCsAQ..i&docid=vL3iO6fXND7MbM&w=747&h=515&q=freecodecamp%20logo%20svg&client=firefox-b-d&ved=2ahUKEwielZPfvO_wAhUTD-wKHaIrAeMQMygAegUIARCsAQ"></a>
+<a href="https://edabit.com/user/jySqRL3ixQ8CfSS66"><img src="https://edabit-images.s3.amazonaws.com/shades.png"></a>
+<a href="https://www.sololearn.com/Profile/13825455"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/SoloLearn_logo.svg"></a>
 
 <!-- https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg -->
 <!-- https://www.vectorlogo.zone/logos/grasshopper/grasshopper-icon.svg -->
@@ -114,7 +114,7 @@
 
 <p align="center">
 
-## feel free to follow me :)
+## Feel free to follow me :)
 
 </p>
 
