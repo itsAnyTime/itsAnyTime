@@ -30,6 +30,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" height="45" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 # Planed to learn:
 
 <p>
@@ -94,6 +95,8 @@ feel free to follow me :)
 
 <p align="center">
 # Used in past:<br />
+
+<p>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="30" />&nbsp;&nbsp;
@@ -104,7 +107,7 @@ feel free to follow me :)
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="30" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="30"/>
-</p>
+</p></ p>
 
 
 
