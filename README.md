@@ -100,18 +100,6 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" width="55" height="55"/>
 
 
-<!-- social media -->
-<p>
-<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="55" height="55"/>
-
-<img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" width="110" height="75"/> 
-</p>
 
 
 <!-- source: https://github.com/anuraghazra/github-readme-stats -->
@@ -120,4 +108,18 @@ Used in past:<br />
 <p align="center"> 
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/itsAnyTime/count.svg" />
+</p>
+
+
+<!-- social media -->
+<p>
+<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" width="55" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="55" height="30"/>
+
+<img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" height="30"/> 
 </p>
