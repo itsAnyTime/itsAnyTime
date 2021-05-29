@@ -8,21 +8,21 @@
 <a href="https://www.freecodecamp.org/fcc834db64d-ad4e-47e5-b84c-f0191fd050b3"><img height="45" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg"></a>&nbsp;&nbsp;
 <a href="https://edabit.com/user/jySqRL3ixQ8CfSS66"><img height="45" src="https://edabit-images.s3.amazonaws.com/shades.png"></a>&nbsp;&nbsp;
 <a href="https://www.sololearn.com/Profile/13825455"><img height="45" src="https://github.com/itsAnyTime/itsAnyTime/blob/master/media/sololearn.svg"></a>
-
-<!-- https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg -->
 <!-- https://www.vectorlogo.zone/logos/grasshopper/grasshopper-icon.svg -->
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <!-- missing: Adobe, unreal-->
 
-<!-- source: https://github.com/anuraghazra/github-readme-stats -->
+<!-- stat source: https://github.com/anuraghazra/github-readme-stats -->
 <p> <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
 </p>
 
 <p align="center">
 
- # Interests: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planed to learn:
+ # Interests: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planed to learn:
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />&nbsp;&nbsp;
@@ -104,7 +104,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="45" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" height="45"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="45" />&nbsp;&nbsp;
 
 </p></p>
