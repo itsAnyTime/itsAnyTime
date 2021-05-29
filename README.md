@@ -90,16 +90,15 @@ feel free to follow me :)
 
 
 Used in past:<br />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="15"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="15" />
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="55" height="15" />
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="110" height="15" />
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="15"
-    height="55" />
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="55" height="15" />
-<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" width="55" height="15" />
-<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" width="55" height="15" />
-<img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" width="55" height="15" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="15"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="15" />
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" height="15" />
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="15" />
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="55" />
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" height="15" />
+<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="Joomla" height="15" />
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="w3c" height="15" />
+<img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="Gimp" height="15" />
 
 
 
