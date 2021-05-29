@@ -103,6 +103,7 @@ Used in past:<br />
 
 
 <!-- social media -->
+<p>
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" width="55" height="55"/>
@@ -112,6 +113,7 @@ Used in past:<br />
 <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="55" height="55"/>
 
 <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" width="110" height="75"/> 
+</p>
 
 
 <!-- source: https://github.com/anuraghazra/github-readme-stats -->
