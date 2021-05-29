@@ -1,5 +1,11 @@
 #  Hi there 👋😄
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsAnyTime/itsAnyTime/output/github-contribution-grid-snake.svg)
+
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 ## Some of my other profiles:
 
 <a href="https://replit.com/@itsAnyTime/LovableHarshWaterfall#myApp.js"><img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" height="45" alt="repl.it" /></a>&nbsp;&nbsp;
@@ -12,7 +18,7 @@
 
 <p>&nbsp;</p>
 
-<!-- missing: Adobe, unreal-->
+<!-- missing: css, Adobe, unreal-->
 
 <!-- stat source: https://github.com/anuraghazra/github-readme-stats -->
 <p> <img
