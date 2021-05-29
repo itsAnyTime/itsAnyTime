@@ -14,7 +14,7 @@ feel free to follow me :)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&theme=midnight-purple&layout=compact&theme=material-palenight" />
 </a>
 
 <p align="center"> 
