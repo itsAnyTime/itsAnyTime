@@ -19,13 +19,12 @@ _generated with [itsAnyTime/snk](https://github.com/platane/snk)_
 <!-- missing: css, Adobe, unreal-->
 
 <!-- stat source: https://github.com/anuraghazra/github-readme-stats -->
-<p> <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTime&langs_count=10&theme=chartreuse-dark&layout=compact" />
 </p>
 
 <p align="center">
 
- # Interests: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planned to learn:
+ # Interests: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planned to learn:
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera" height="45" />&nbsp;&nbsp;
@@ -68,8 +67,7 @@ _generated with [itsAnyTime/snk](https://github.com/platane/snk)_
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" height="45" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code"
-    height="45" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" height="45" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/papertrailapp/papertrailapp-icon.svg" alt="Papertrail" height="45" />&nbsp;&nbsp;
