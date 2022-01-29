@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   schedule:
       # every 24 hours
-    - cron: "0 */24 * * *"
+    #- cron: "0 */24 * * *"
+      # 1x month
+    - cron: "1 1 1 */1 *"
 
 jobs:
   generate:
